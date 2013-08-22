@@ -1,0 +1,13 @@
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\CamaraWebSencilla.exe.config
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\CamaraWebSencilla.exe
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\CamaraWebSencilla.pdb
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\MainWindow.baml
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\MainWindow.g.cs
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\App.g.cs
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla_MarkupCompile.cache
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.g.resources
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.Properties.Resources.resources
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.csproj.GenerateResource.Cache
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.exe
+c:\users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.pdb
+C:\Users\sacro_000\documents\visual studio 2012\Projects\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.csprojResolveAssemblyReference.cache

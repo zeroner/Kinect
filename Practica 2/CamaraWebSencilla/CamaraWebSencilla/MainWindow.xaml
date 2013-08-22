@@ -1,0 +1,9 @@
+﻿<Window x:Class="CamaraWebSencilla.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded_1">
+    <Grid>
+        <Image x:Name="mostrarVideo" HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" VerticalAlignment="Top" Width="497"/>
+
+    </Grid>
+</Window>
