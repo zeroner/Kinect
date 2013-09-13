@@ -1,0 +1,13 @@
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\bin\Debug\ControlandoColores.exe.config
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\bin\Debug\ControlandoColores.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\bin\Debug\ControlandoColores.pdb
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\ControlandoColores.csprojResolveAssemblyReference.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\MainWindow.baml
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\MainWindow.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\App.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\ControlandoColores_MarkupCompile.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\ControlandoColores.g.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\ControlandoColores.Properties.Resources.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\ControlandoColores.csproj.GenerateResource.Cache
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\ControlandoColores.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlandoColores\ControlandoColores\obj\Debug\ControlandoColores.pdb

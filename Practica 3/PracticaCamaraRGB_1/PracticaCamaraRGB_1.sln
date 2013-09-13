@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaCamaraRGB_1", "PracticaCamaraRGB_1\PracticaCamaraRGB_1.csproj", "{A1D45553-9644-4C05-83FE-0C199AE4DECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D45553-9644-4C05-83FE-0C199AE4DECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D45553-9644-4C05-83FE-0C199AE4DECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D45553-9644-4C05-83FE-0C199AE4DECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D45553-9644-4C05-83FE-0C199AE4DECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
