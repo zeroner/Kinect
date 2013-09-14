@@ -24,3 +24,19 @@ C:\Users\zeroner\Downloads\Kinect-master\Kinect-master\Practica 1\PracticaCamara
 C:\Users\zeroner\Downloads\Kinect-master\Kinect-master\Practica 1\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.g.resources
 C:\Users\zeroner\Downloads\Kinect-master\Kinect-master\Practica 1\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.Properties.Resources.resources
 C:\Users\zeroner\Downloads\Kinect-master\Kinect-master\Practica 1\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.csproj.GenerateResource.Cache
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\bin\Debug\PracticaCamaraRGB_1.exe.config
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.exe
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.pdb
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\bin\Debug\PracticaCamaraRGB_1.exe
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\bin\Debug\PracticaCamaraRGB_1.pdb
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.csprojResolveAssemblyReference.cache
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\MainWindow.baml
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\MainWindow.g.cs
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\App.g.cs
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1_MarkupCompile.cache
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.g.resources
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.Properties.Resources.resources
+C:\Users\zeroner\Desktop\Curso Kinect\2. Camara a Color\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.csproj.GenerateResource.Cache
+C:\Users\zeroner\Documents\GitHub\Kinect\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\bin\Debug\PracticaCamaraRGB_1.exe.config
+C:\Users\zeroner\Documents\GitHub\Kinect\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.exe
+C:\Users\zeroner\Documents\GitHub\Kinect\Practica 3\PracticaCamaraRGB_1\PracticaCamaraRGB_1\obj\Debug\PracticaCamaraRGB_1.pdb

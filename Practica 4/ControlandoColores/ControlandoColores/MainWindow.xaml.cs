@@ -157,5 +157,6 @@ namespace ControlandoColores
         {
             controlRojo = (int)sliderRojo.Value;
         }
+
     }
 }

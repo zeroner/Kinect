@@ -4,7 +4,7 @@
         Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded_1">
     <Grid>
         <Image x:Name="colorStream" HorizontalAlignment="Left" Height="266" Margin="10,10,0,0" VerticalAlignment="Top" Width="418"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="100,281,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="tomarFoto" Content="Tomar Foto" HorizontalAlignment="Left" Margin="100,281,0,0" VerticalAlignment="Top" Width="75" Click="tomarFoto_Click"/>
         <Slider x:Name="sliderAzul" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Blue" HorizontalAlignment="Left" Margin="433,10,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderAzul_ValueChanged"/>
         <Slider x:Name="sliderVerde" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Green" HorizontalAlignment="Left" Margin="456,10,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderVerde_ValueChanged"/>
         <Slider x:Name="sliderRojo" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Red" HorizontalAlignment="Left" Margin="479,10,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderRojo_ValueChanged"/>
