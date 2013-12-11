@@ -1,0 +1,13 @@
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.exe.config
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.csprojResolveAssemblyReference.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\MainWindow.baml
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\MainWindow.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\App.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad_MarkupCompile.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.g.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.Properties.Resources.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.csproj.GenerateResource.Cache
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.pdb
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.pdb
