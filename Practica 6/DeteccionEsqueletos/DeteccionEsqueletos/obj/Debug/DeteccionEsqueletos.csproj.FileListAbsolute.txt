@@ -1,0 +1,13 @@
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\bin\Debug\DeteccionEsqueletos.exe.config
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\bin\Debug\DeteccionEsqueletos.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\bin\Debug\DeteccionEsqueletos.pdb
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\DeteccionEsqueletos.csprojResolveAssemblyReference.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\MainWindow.baml
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\MainWindow.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\App.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\DeteccionEsqueletos_MarkupCompile.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\DeteccionEsqueletos.g.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\DeteccionEsqueletos.Properties.Resources.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\DeteccionEsqueletos.csproj.GenerateResource.Cache
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\DeteccionEsqueletos.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\DeteccionEsqueletos\DeteccionEsqueletos\obj\Debug\DeteccionEsqueletos.pdb
