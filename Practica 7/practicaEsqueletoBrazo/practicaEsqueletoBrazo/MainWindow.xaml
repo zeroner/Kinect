@@ -1,0 +1,9 @@
+﻿<Window x:Class="practicaEsqueletoBrazo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="480" Width="640" Loaded="Window_Loaded_1">
+    <Grid>
+        <Canvas Name="canvasesqueleto" HorizontalAlignment="Left" Height="429" Margin="10,10,0,0" VerticalAlignment="Top" Width="612"/>
+
+    </Grid>
+</Window>
