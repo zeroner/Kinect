@@ -1,0 +1,17 @@
+﻿<Window x:Class="PowerPointKinect.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="480" Width="640" WindowState="Maximized" Loaded="Window_Loaded_1">
+    <Grid>
+        <Viewbox Stretch="Uniform">
+            <Grid>
+                <Image Name="imagenVideo" Height="480" Width="640"/>
+                <Canvas Background="Transparent">
+                    <Ellipse Name="ellipseCabeza" Fill="Red" Stroke="White" Width="20" Height="20"/>
+                    <Ellipse Name="ellipseManoIzq" Fill="Red" Stroke="White" Width="20" Height="20"/>
+                    <Ellipse Name="ellipseManoDer" Fill="Red" Stroke="White" Width="20" Height="20"/>
+                </Canvas>
+            </Grid>
+        </Viewbox>
+    </Grid>
+</Window>
