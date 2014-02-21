@@ -1,0 +1,24 @@
+﻿<Window x:Class="ControlesDelToolkit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        Title="MainWindow" Height="407.678" Width="623.315" Loaded="Window_Loaded_1">
+    <Grid>
+        <k:KinectRegion Name="ZonaCursor">
+            <Grid>
+                <k:KinectUserViewer ImageBackground="Black" DefaultUserColor="Green" PrimaryUserColor="Red" Margin="0,0,392,237"></k:KinectUserViewer>
+                <k:KinectTileButton Click="KinectTileButton_Click_1" Label="Salir" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="415,10,10,237" Height="72" Width="92"></k:KinectTileButton>
+                <k:KinectScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled" HorizontalAlignment="Center" Padding="30" Margin="0,82,0,0">
+                    <StackPanel Orientation="Horizontal">
+                        <k:KinectTileButton Click="KinectCircleButton_Click_1" Label="Presioname!"></k:KinectTileButton>
+                        <k:KinectTileButton Click="KinectCircleButton_Click_1" Label="Presioname!"></k:KinectTileButton>
+                        <k:KinectTileButton Click="KinectCircleButton_Click_1" Label="Presioname!"></k:KinectTileButton>
+                        <k:KinectTileButton Click="KinectCircleButton_Click_1" Label="Presioname!"></k:KinectTileButton>
+                        <k:KinectTileButton Click="KinectCircleButton_Click_1" Label="Presioname!"></k:KinectTileButton>
+                    </StackPanel>
+                </k:KinectScrollViewer>
+            </Grid>
+        </k:KinectRegion>
+        <k:KinectSensorChooserUI Name="sensorChooserUI" HorizontalAlignment="Center" VerticalAlignment="Top"></k:KinectSensorChooserUI>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\ControlesDelToolkit.exe.config
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\ControlesDelToolkit.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\ControlesDelToolkit.pdb
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\ControlesDelToolkit.csprojResolveAssemblyReference.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\MainWindow.baml
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\MainWindow.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\App.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\ControlesDelToolkit_MarkupCompile.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\ControlesDelToolkit.g.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\ControlesDelToolkit.Properties.Resources.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\ControlesDelToolkit.csproj.GenerateResource.Cache
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\ControlesDelToolkit.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\ControlesDelToolkit.pdb
+C:\Users\zeroner\documents\visual studio 2012\Projects\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\KinectInteraction180_32.dll
